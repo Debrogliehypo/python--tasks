@@ -6,5 +6,5 @@ This repository contains two Python scripts:
 
 ## How to Run
 ```bash
-python task1.py
-python task2.py
+assignment1.py
+asssignment1Q2.py
